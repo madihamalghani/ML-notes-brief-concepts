@@ -23,11 +23,10 @@ uploaded = files.upload()
 
 Uploading other file:
 
-```python[train.csv](https://github.com/user-attachments/files/18928796/train.csv)
+```
 
 from google.colab import files
-uploaded = files.uploa[Uploading train.csv…]()
-d()
+uploaded = files.upload() 
 #upload test.cvs
 ```
 
