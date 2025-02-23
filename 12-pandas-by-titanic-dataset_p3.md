@@ -1,10 +1,8 @@
 **Learn Pandas** while analyzing the Titanic dataset. 🚢
 
-[train.csv](attachment:9ad6e385-3d53-48df-8402-c134de33afba:train.csv)
 
-[test.csv](attachment:7fc0be1c-0f75-4e3f-9579-d8973fd59ef9:test.csv)
-
-*Using these two above files, we will analyze the data. These files are taken from Kaggle Dataset*
+*Using  two  files train.cvs and test.cvs, we will analyze the data. These files are taken from Kaggle Dataset*
+(given in repository with this name)
 
 <aside>
 💡
@@ -25,9 +23,11 @@ uploaded = files.upload()
 
 Uploading other file:
 
-```python
+```python[train.csv](https://github.com/user-attachments/files/18928796/train.csv)
+
 from google.colab import files
-uploaded = files.upload()
+uploaded = files.uploa[Uploading train.csv…]()
+d()
 #upload test.cvs
 ```
 
